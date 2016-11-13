@@ -4,3 +4,9 @@ body {
 header{
 	background-color: blue;
 }
+h1{
+	background-color : green;
+}
+footer {
+	background-color : gray;
+}
